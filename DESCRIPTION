@@ -1,4 +1,4 @@
-Package: SKAT2
+Package: RSKAT2
 Type: Package
 Title: SKAT test for two or more random components
 Version: 1.0.1
